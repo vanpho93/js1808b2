@@ -19,7 +19,7 @@ function veHinh1(soDong) {
 }
 
 function veHinh2(soDong) {
-    for(let s = ''; s.length <= soDong; s +='*') console.log(s);
+    for(let s = ''; s.length <= soDong; s += '*') console.log(s);
 }
 
 veHinh2(5);
