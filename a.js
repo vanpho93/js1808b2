@@ -65,5 +65,10 @@ function kiemTraChinhPhuong(i) {
     return Math.sqrt(i) % 1 === 0;
 }
 
+const kiemTra2 = i => Math.sqrt(i) % 1 === 0;
 
-inSo(kiemTraChinhPhuong);
+console.log(kiemTra2(100));
+
+inSo(kiemTra2);
+
+//arrow
