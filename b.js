@@ -52,6 +52,17 @@ veHinh2(5);
  soDong = 4 
 */
 
+/*
+    *
+   ***
+  *****
+ *******
+  *****
+   ***
+    *
+ soDong = 7 (soDong luon % 2 = 1)
+*/
+
 function veHinh3(soDong) {
-    
+
 }
